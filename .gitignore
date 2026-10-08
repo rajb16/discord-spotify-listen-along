@@ -1,0 +1,5 @@
+# Vencord source is cloned here by install.ps1
+vencord-src/
+# copied from spicetify/ at install time
+vencord-plugin/listenAlongBridge/assets/
+*.log

@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Listen Along (Discord)",
+    "description": "Listen along to a Discord friend in Spotify, in sync, even when Spotify ignores Discord's own Listen Along. Needs a Vencord plugin: read the README before installing.",
+    "preview": "spicetify/preview.png",
+    "main": "spicetify/listenAlong.js",
+    "readme": "README.md",
+    "authors": [{ "name": "rajb16", "url": "https://github.com/rajb16" }],
+    "tags": ["discord", "social", "sync", "friends"]
+  }
+]
